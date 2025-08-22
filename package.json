@@ -20,7 +20,11 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "expo-cli": "^4.13.0"
+    },
+  "engines": {
+    "node": "16.x"
   },
   "private": true
 }
+
 
